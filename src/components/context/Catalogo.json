@@ -1,0 +1,113 @@
+[
+    {
+        "id": "uozoOqRgbk9xjbtDuEHM",
+        "title": "Pelota trenzada",
+        "price": 500,
+        "category": "juguetes",
+        "description": "Pelota mediana de goma trenzada",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/2435560d7d38e3f4bb1cb112e2dbf604-product.webp"
+    },
+    {
+        "id": "ZkrqUsBd0XGautE7HtAQ",
+        "title": "Juguete interactivo",
+        "price": 1100,
+        "category": "juguetes",
+        "description": "Juguete interactivo con fuga de alimento",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/e224dbaa9c9d11cc966cfc7af900c2d0-product.webp"
+    },
+    {
+        "id": "b8RS8bOhdWGJ9gmEKrG0",
+        "title": "Rascador para gatos",
+        "price": 900,
+        "category": "juguetes",
+        "description": "Rascador de carton. Medidas 60x40cm",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/9a50120434bf0efc1af584fc1f8b70fe-product.webp"
+    },
+    {
+        "id": "Zcw55oEjGLNUMHmC8ZNa",
+        "title": "Ratón de peluche",
+        "price": 450,
+        "category": "juguetes",
+        "description": "Ratón de peluche para gatos. Medidas 5x10cm",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/48fedbaa9bb2d2d1b5356dffee4118ac-product.webp"
+    },
+    {
+        "id": "USwsoUUBDfMWdEr0NKBU",
+        "title": "Set de plumas",
+        "price": 650,
+        "category": "juguetes",
+        "description": "Set de 11 plumas intercambiables",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/8bd8f760b383582c30d6a4f8fc5c32f1-product.webp"
+    },
+    {
+        "id": "5hrLeqDmkyKOWi33AnaY",
+        "title": "Peluche tostada zombie",
+        "price": 700,
+        "category": "juguetes",
+        "description": "Peluche en forma de tostada zombie. Tamaño 20x20cm",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/508afe6b7e0b33314a43fe6a65d40c8b-product.webp"
+    },
+    {
+        "id": "Xv7XdPGjsuwvzoEQt7Y5",
+        "title": "Mueble trepador y rascador para gatos",
+        "price": 2900,
+        "category": "accesorios",
+        "description": "Mueble de 1.40mts de altura, con carton rascador y forrado en peluche",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/97fb406982a1e297093a8a0652a95875-product.webp"
+    },
+    {
+        "id": "K44P6xnlZblOp19cwaps",
+        "title": "Cama grande para perro",
+        "price": 2350,
+        "category": "accesorios",
+        "description": "Cama perro grande Suave 90x70x15cm",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/1aa601059bd8e75e4d5ea9bc452006f8-product.webp"
+    },
+    {
+        "id": "7RDQcZmBLxcrYiJ65KnM",
+        "title": "Gorra para perro",
+        "price": 550,
+        "category": "accesorios",
+        "description": "Gorra para perro mediano, ajustable",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/18eb0a7d735257222dfeb121183e88d7-product.webp"
+    },
+    {
+        "id": "hjukQ19e7y9pgcQYOVj8",
+        "title": "Set de bolsas biodegradables",
+        "price": 950,
+        "category": "accesorios",
+        "description": "Repuesto de bolsas biodegradables x 16 rollos",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/9ea986c840ac0acf77043b67ea0fe679-product.webp"
+    },
+    {
+        "id": "ua60sjAUAtGUgHQjmyYo",
+        "title": "Arenero para gato con cernidor",
+        "price": 1500,
+        "category": "accesorios",
+        "description": "Arenero con cernidor incorporado, no se necesita pala, fácil limpieza",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/e8a32527e097b77d8bae3645c882401b-product.webp"
+    },
+    {
+        "id": "Yqh3Askawt9De6EzPr3v",
+        "title": "Collar con pañuelo",
+        "price": 600,
+        "category": "accesorios",
+        "description": "Collar para perros medianos con pañuelo incluido",
+        "stock": 10,
+        "imageUrl": "https://i.linio.com/p/97a7e1708be4f98eebb57f49dad660d5-product.webp"
+    }
+
+
+
+]
