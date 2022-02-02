@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tiendafirulais/static/css/main.db5b98b6.css",
+    "main.js": "/tiendafirulais/static/js/main.123d1d1b.js",
+    "static/media/carrito.png": "/tiendafirulais/static/media/carrito.435da572d43ea8c1e4f1.png",
+    "index.html": "/tiendafirulais/index.html",
+    "main.db5b98b6.css.map": "/tiendafirulais/static/css/main.db5b98b6.css.map",
+    "main.123d1d1b.js.map": "/tiendafirulais/static/js/main.123d1d1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5b98b6.css",
+    "static/js/main.123d1d1b.js"
+  ]
+}
